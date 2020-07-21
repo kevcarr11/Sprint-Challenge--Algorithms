@@ -7,8 +7,8 @@ this snippet has a O(n) runtime because as we increase the value of n
 the while loop will have to loop n more times. The speed of the algorithm will increase at the same rate as n. 
 
 
-b) O(n^2)
-this snippet has a O(n^2) runtime because for an input size of n, we have to print n * n times or n^2 times.
+b) O(2^n)
+this snippet has a O(2^n) runtime because for an input size of n, we have to print n * n times or 2^n times.
 
 
 c) O(n)
